@@ -13,7 +13,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
 ## 🖥️ O código:
 
-![código](https://user-images.githubusercontent.com/107886724/224846170-6a3caea6-b0f0-4acb-8bb4-309d018ae9c2.PNG)
+![código](https://user-images.githubusercontent.com/115082857/225042183-eb32eb80-f5b6-484a-8acf-d5cc34f83613.png)
 
 ## 👩‍💻 Execução:
 
