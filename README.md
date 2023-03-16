@@ -1,7 +1,7 @@
 # Projeto do Módulo 5 - Facilitando o dia a dia
 
 Vamos usar o Node para montar um código que vai receber uma lista de
-propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver
+propriedades de CSS (exemplo: background, border-radius, linear-gradient()) e vai devolver
 essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a
 propriedade que precisamos alterar.
 
